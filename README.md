@@ -12,6 +12,6 @@ This food balance sheet shows the food items for human consumption, along with h
 
 The dataset can be obtained via this link: [FoodBalanceSheets_E_Africa_NOFLAG.csv](https://github.com/HamoyeHQ/HDSC-Introduction-to-Python-for-machine-learning/files/7768140/FoodBalanceSheets_E_Africa_NOFLAG.csv)
 
-For some reason, GitHub imposes a 5-second timeout for rich rendering. If the notebook cannot be rendered within the timeout period of 5 seconds, GitHub does not render it. It happens to big and small files as well. If you could view the codes on the Stage A ipynb notebook, you can easily view it on Jupyter nbviewer [here](https://nbviewer.org/github/Chisomnwa/Hamoye_Data_Engineering_Stage_Quizzes/blob/main/Stage_A_Quiz.ipynb)
+For some reason, GitHub imposes a 5-second timeout for rich rendering. If the notebook cannot be rendered within the timeout period of 5 seconds, GitHub does not render it. It happens to big and small files as well. If you could not view the codes on the Stage_A_Quiz.ipynb, you can easily view it on Jupyter nbviewer [here](https://nbviewer.org/github/Chisomnwa/Hamoye_Data_Engineering_Stage_Quizzes/blob/main/Stage_A_Quiz.ipynb).
 
 ## For Stage B:
