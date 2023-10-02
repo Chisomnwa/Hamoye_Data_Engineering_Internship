@@ -1,0 +1,16 @@
+# This is a repository for my Hamoye Data Engineering Stage Quizzes
+
+## For Stage A:
+
+This [notebook]() file contains my Tag along code for the stage A assessment quiz.
+
+This quiz was an assessment of our understanding of the **Introduction to Python for Machine Learning Course.** The 60-minute quiz had sections numbered 1–20 where we imported, wrangled, and answered some questions on the African Food Production Dataset which was provided by the FAO website.
+
+This food Balance Sheet compiled by the Food and Agriculture Organization of the United Nations contains a selection of African countries food supply between 2014 to 2018.
+
+This food balance sheet shows the food items for human consumption, along with how much was produced, used, imported, or exported, and how it benefits society (per capita supply).
+
+The dataset can be obtained via this link: [FoodBalanceSheets_E_Africa_NOFLAG.csv](https://github.com/HamoyeHQ/HDSC-Introduction-to-Python-for-machine-learning/files/7768140/FoodBalanceSheets_E_Africa_NOFLAG.csv)
+
+
+## For Stage B:
