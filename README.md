@@ -1,8 +1,8 @@
-# This is a repository for my Hamoye Data Engineering Stage Quizzes
+# This is a repository for my Hamoye Data Engineering Internship Stage Quizzes
 
 ## For Stage A:
 
-This [notebook]() file contains my Tag along code for the stage A assessment quiz.
+This [notebook](https://github.com/Chisomnwa/Hamoye_Data_Engineering_Stage_Quizzes/blob/main/Stage_A_Quiz.ipynb) file contains my Tag along code for the stage A assessment quiz.
 
 This quiz was an assessment of our understanding of the **Introduction to Python for Machine Learning Course.** The 60-minute quiz had sections numbered 1–20 where we imported, wrangled, and answered some questions on the African Food Production Dataset which was provided by the FAO website.
 
