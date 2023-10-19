@@ -25,4 +25,4 @@ The dataset for the remainder of this quiz (from question 18) is the Appliances 
 In this course, I developed a multivariate multiple regression model to study the effect of eight input variables on two output.
 
 
-If you could not view the codes on the Stage_A_Quiz.ipynb, you can easily view it on Jupyter nbviewer [here](https://nbviewer.org/github/Chisomnwa/Hamoye_Data_Engineering_Stage_Quizzes/blob/main/Stage_B_Quiz/Machine%20Learning%20Regression%20-%20Predicting%20Energy%20Efficiency.ipynb)
+If you could not view the codes on the Stage_B_Quiz.ipynb, you can easily view it on Jupyter nbviewer [here](https://nbviewer.org/github/Chisomnwa/Hamoye_Data_Engineering_Stage_Quizzes/blob/main/Stage_B_Quiz/Machine%20Learning%20Regression%20-%20Predicting%20Energy%20Efficiency.ipynb)
