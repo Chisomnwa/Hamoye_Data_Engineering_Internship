@@ -15,3 +15,9 @@ The dataset can be obtained via this link: [FoodBalanceSheets_E_Africa_NOFLAG.cs
 **Please note!:** For some reason, GitHub imposes a 5-second timeout for rich rendering. If the notebook cannot be rendered within the timeout period of 5 seconds, GitHub does not render it. It happens to big and small files as well. If you could not view the codes on the Stage_A_Quiz.ipynb, you can easily view it on Jupyter nbviewer [here](https://nbviewer.org/github/Chisomnwa/Hamoye_Data_Engineering_Stage_Quizzes/blob/main/Stage_A_Quiz.ipynb).
 
 ## For Stage B:
+
+### Appliances Energy Prediction data
+
+The dataset for the remainder of this quiz (from question 18) is the Appliances Energy Prediction data. The data set is at 10 min for about 4.5 months. The house temperature and humidity conditions were monitored with a ZigBee wireless sensor network. Each wireless node transmitted the temperature and humidity conditions around 3.3 min. Then, the wireless data was averaged for 10 minutes periods. The energy data was logged every 10 minutes with m-bus energy meters. Weather from the nearest airport weather station (Chievres Airport, Belgium) was downloaded from a public data set from Reliable Prognosis (rp5.ru), and merged together with the experimental data sets using the date and time column. Two random variables have been included in the data set for testing the regression models and to filter out non predictive attributes (parameters).
+
+In this course, I developed a multivariate multiple regression model to study the effect of eight input variables on two output.
